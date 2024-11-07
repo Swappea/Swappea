@@ -6,6 +6,10 @@
 
 - I am senior software developer primrarily focused on frontend development.
 
+## Support Me
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/swappea)
+
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
