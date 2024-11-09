@@ -36,9 +36,9 @@
 ### Contributions
 
 <div style="text-align: center">
-    <image src="https://github-readme-stats.vercel.app/api?username=swappea" width="400"/>
+    <image src="https://github-readme-stats-smoky-six-50.vercel.app/api?username=swappea" width="400"/>
 </div>
 
 <div style="text-align: center">
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=swappea" width="400" />
+    <image src="https://github-readme-stats-smoky-six-50.vercel.app/api/top-langs/?username=swappea&layout=compact" width="400" />
 </div>
